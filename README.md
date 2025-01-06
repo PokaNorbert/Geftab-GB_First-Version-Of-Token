@@ -1,7 +1,7 @@
 # Geftab-cryptocurrency
 -for now, no links (from crypto trackers) referring to this token-
 
-Other links about this crypto project-Geftab:
+Other links about this crypto project-Geftab:  
 🟠Website: https://geftab.com 
 (currently cannot be accessed)
 ------------------------------------------------------------------------------------
