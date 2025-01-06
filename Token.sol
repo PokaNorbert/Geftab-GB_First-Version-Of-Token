@@ -1,4 +1,5 @@
-/// This is the first version of the official Geftab cryptocurrency (currently without its own blockchain, but in the form of a BSC token; there is also an unfinished blockchain that can be presented upon request).
+/// This is the first version of the official Geftab cryptocurrency 
+(currently without its own blockchain, but in the form of a BSC token; there is also an unfinished blockchain that can be presented upon request).
 
 pragma solidity 0.5.16;
 
