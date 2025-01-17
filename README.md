@@ -1,6 +1,8 @@
 # Geftab [GB]-crypto project/cryptocurrency
 -for now, no links (from crypto trackers) referring to this token-
 
+I'll be back at the beginning of February. For the next few weeks, I'll prioritize the college exam session.
+
 Other links about this crypto project-Geftab:  
 🟠Website: https://geftab.com 
 (currently cannot be accessed)
