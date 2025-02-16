@@ -1,8 +1,6 @@
 # Geftab [GB]-crypto project/cryptocurrency
 -for now, no links (from crypto trackers) referring to this token-
 
-Some lines need to be rewritten, so the entire update will be completed between February 17-27.
-
 Other links about this crypto project-Geftab:  
 🟠Website: https://geftab.com 
 (currently cannot be accessed)
