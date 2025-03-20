@@ -37,4 +37,4 @@ For now, no links (from crypto trackers) referring to this token.
 <li>Discord, 
 <li>or TikTok:
 </ul>
-**PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert.** 
+# PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert.
