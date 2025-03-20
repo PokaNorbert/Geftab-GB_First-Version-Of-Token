@@ -2,7 +2,6 @@
 For now, no links (from crypto trackers) referring to this token.
 
 <h2>Other links about this crypto project-Geftab:</h2>  
-
 🟠Website: https://geftab.com 
 (currently cannot be accessed)
 
