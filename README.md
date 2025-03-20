@@ -28,7 +28,7 @@ For now, no links (from crypto trackers) referring to this token.
 ➖Группа/Group: https://vk.com/gbfamily_group
 ➖Страница/Page: https://vk.com/geftabgb 
 
-For any questions you can *contact me* here or on: 
+<h2>For any questions you can *contact me* here or on:</h2>
 
 mail (orbert.pn@gmail.com), 
 
