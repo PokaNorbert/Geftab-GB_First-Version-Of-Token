@@ -1,7 +1,7 @@
 # Geftab [GB]-crypto project/cryptocurrency
 For now, no links (from crypto trackers) referring to this token.
 
-Other links about this crypto project-Geftab:  
+<h2>Other links about this crypto project-Geftab:</h2>  
 🟠Website: https://geftab.com 
 (currently cannot be accessed)
 ------------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ Other links about this crypto project-Geftab:
 ➖Группа/Group: https://vk.com/gbfamily_group
 ➖Страница/Page: https://vk.com/geftabgb 
 
-for any questions you can *contact me* here or on: 
+For any questions you can *contact me* here or on: 
 
 mail (orbert.pn@gmail.com), 
 
@@ -41,4 +41,4 @@ Discord
 
 or TikTok:
 
-PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert 
+**PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert** 
