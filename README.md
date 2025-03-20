@@ -30,11 +30,11 @@ For now, no links (from crypto trackers) referring to this token.
 
 <h2>For any questions you can *contact me* here or on:</h2>
 <ul>
-<li>mail (orbert.pn@gmail.com); 
-<li>LinkedIn, 
-<li>Facebook, 
-<li>Instagram, 
-<li>Discord, 
-<li>or TikTok:
+<li>mail (orbert.pn@gmail.com);</li>
+<li>LinkedIn,</li> 
+<li>Facebook,</li> 
+<li>Instagram,</li>
+<li>Discord,</li> 
+<li>or TikTok:</li>
 </ul>
-# PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert.
+**PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert.**
