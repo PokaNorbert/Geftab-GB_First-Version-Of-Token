@@ -29,17 +29,12 @@ For now, no links (from crypto trackers) referring to this token.
 ➖Страница/Page: https://vk.com/geftabgb 
 
 <h2>For any questions you can *contact me* here or on:</h2>
-
-mail (orbert.pn@gmail.com), 
-
-LinkedIn, 
-
-Facebook, 
-
-Instagram, 
-
-Discord 
-
-or TikTok:
-
-**PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert** 
+<ul>
+<li>mail (orbert.pn@gmail.com); 
+<li>LinkedIn, 
+<li>Facebook, 
+<li>Instagram, 
+<li>Discord, 
+<li>or TikTok:
+</ul>
+**PNorbert - pnorbert_official - PokaNorbert - pokanorbert - ponorbert.** 
