@@ -1,5 +1,5 @@
 # Geftab [GB]-crypto project/cryptocurrency
--for now, no links (from crypto trackers) referring to this token-
+For now, no links (from crypto trackers) referring to this token.
 
 Other links about this crypto project-Geftab:  
 🟠Website: https://geftab.com 
